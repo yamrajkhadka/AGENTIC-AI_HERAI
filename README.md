@@ -220,20 +220,7 @@ if st.session_state.first_visit:
     st.text_input(value="Hi ❤️ Tell me about yourself")
 ```
 
-## 📈 Skills You'll Demonstrate
 
-After building this, you can honestly say you've worked with:
-
-✅ Multi-agent systems (5 specialized agents)  
-✅ LangGraph for stateful agent orchestration  
-✅ RAG (Retrieval Augmented Generation) with FAISS  
-✅ Vector embeddings and semantic search  
-✅ Conditional routing and decision logic  
-✅ Prompt engineering and LLM integration  
-✅ Production-ready UI with Streamlit  
-✅ State management in conversational AI  
-
-This is **portfolio gold** and genuinely impressive in interviews.
 
 ## 🔮 Future Enhancements
 
